@@ -8,7 +8,7 @@ Kush --
 
 Michael -- 
 
-Gavin -- 
+Gavin -- gd1080
 
 Andrew --
 
@@ -24,7 +24,7 @@ Nick --
 
 Madison --mmquill
 
-Nora -- nksinno https://github.com/nksinno/Project
+Nora -- nksinno
 
 Jon-Erik --
 
